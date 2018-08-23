@@ -1,0 +1,17 @@
+{
+    "name":	"atividadeAngularVraptor",
+    "short_name":	"atividadeAngularVraptor",
+    "theme_color":	"#2c80b9",
+    "background_color":	"#2c80b9",
+    "display":	"fullscreen",
+    "orientation":	"portrait",
+    "scope":	"/",
+    "start_url":	"/",
+    "icons":	[
+        {
+                "src":	"src/favicon.ico",
+                "sizes":	"32x32",
+                "type":	"image/ico"
+        }]
+}
+    
